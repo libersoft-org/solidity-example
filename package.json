@@ -1,0 +1,15 @@
+{
+ "name": "hardhat-project",
+ "devDependencies": {
+  "@nomiclabs/hardhat-ethers": "*",
+  "@nomiclabs/hardhat-etherscan": "*",
+  "@nomiclabs/hardhat-waffle": "*",
+  "chai": "*",
+  "ethereum-waffle": "*",
+  "ethers": "*",
+  "hardhat": "*"
+ },
+ "dependencies": {
+  "node-fetch": "^2"
+ }
+}
